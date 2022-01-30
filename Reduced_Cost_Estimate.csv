@@ -1,4 +1,5 @@
 ﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (N. Virginia),,Amazon Virtual Private Cloud (VPC),0,33.3,399.60,USD,Number of NAT Gateways (1)
 My Estimate,US East (N. Virginia),,AWS Data Transfer,0,204.8,2457.60,USD,"DT Inbound: Internet (10 TB per month), DT Outbound: All other regions (10 TB per month), DT Intra-Region: (0 TB per month), Data transfer cost (204.8)"
 My Estimate,US East (N. Virginia),,Amazon EC2,0,3154.4,37852.80,USD,"Operating system (Linux), Quantity (10), Pricing strategy (EC2 Instance Savings Plans 1 Year No Upfront), Storage amount (30 GB), Instance type (c5.4xlarge)"
 My Estimate,US East (N. Virginia),,Amazon RDS for PostgreSQL,0,729.1999999999999,8750.40,USD,"Storage volume (General Purpose SSD (gp2)), Storage amount (30 GB per month), Nodes (2), Instance Type (db.m1.large), Utilization (On-Demand only) (100 %Utilized/Month), Deployment Option (Multi-AZ), Pricing Model (OnDemand)"
